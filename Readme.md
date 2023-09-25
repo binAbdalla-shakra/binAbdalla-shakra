@@ -3,7 +3,7 @@
 
 
 # About Me 😁
-<p>I'm Abdishakur a Software Dev who passionately developing software, currently working on Tabarak IcT </p>
+<p>I'm Abdishakur a Software Dev who passionately developing software </p>
 
 
 
