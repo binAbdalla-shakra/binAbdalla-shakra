@@ -3,7 +3,7 @@
 
 
 # About Me 😁
-<p>I'm Abdishakur a Software Dev who passionately developing software </p>
+<p>I'm Abdishakur a Software Dev who passionately developing softwares </p>
 
 
 
